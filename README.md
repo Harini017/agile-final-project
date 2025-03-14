@@ -90,9 +90,8 @@ Each user story follows the format:
 
 ---
 
-## **Burndown Chart & Project Completion**
-- Ensure burndown chart displays correctly.  
----
+## **Burndown Chart & Project Completion** 
+zenhub for Burnchart & report
 
 ### **License**
 This project is licensed under the [MIT License](LICENSE).
